@@ -166,7 +166,10 @@ class Pricing extends React.Component {
                 </div>
               </div>
               <div className="pricing-item-cta">
-                <a className="button" href="http://cruip.com/">
+                <a
+                  className="button"
+                  href="https://office.hivedesk.com/freetrial/"
+                >
                   Sign-up Now
                 </a>
               </div>
