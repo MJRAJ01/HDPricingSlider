@@ -129,6 +129,7 @@ class Pricing extends React.Component {
               </div>
               <div className="pricing-item-cta">
                 <a
+                  target="_parent"
                   className="button"
                   href="https://office.hivedesk.com/freetrial/"
                 >
@@ -167,6 +168,7 @@ class Pricing extends React.Component {
               </div>
               <div className="pricing-item-cta">
                 <a
+                  target="_parent"
                   className="button"
                   href="https://office.hivedesk.com/freetrial/"
                 >
